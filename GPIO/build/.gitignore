@@ -1,0 +1,6 @@
+*.bin
+*.hex
+*.elf
+
+# But don't ignore .gitignore itself
+!.gitignore
