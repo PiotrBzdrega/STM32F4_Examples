@@ -1,5 +1,5 @@
-# STM32F4 library code directory
-STM_COMMON=../../STM32F4-Discovery_FW_V1.1.0
+#STM32F4 library code directory
+STM_COMMON=../STM32F4-Discovery_FW_V1.1.0
 
 # Source files
 SRCS= main.c stm32f4xx_it.c system_stm32f4xx.c
